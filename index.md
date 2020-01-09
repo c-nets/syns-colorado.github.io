@@ -8,7 +8,7 @@ A local chapter of the Society of Young Network Scientists (SYNS). The goal of t
 
 # Upcoming Events
 
-- 2020/02/13 - the second meetup of the SYNS-Colorado Chapter will be at [the Rayback Collective](https://therayback.com/) from 4:30PM to 6PM
+- 2020/02/13 - the second meetup of the SYNS-Colorado Chapter will be at [the Rayback Collective](https://therayback.com/) from 4:30PM to 6PM. RSVP [here](https://docs.google.com/forms/d/e/1FAIpQLSeIG45K_mFJ5agmJDqxD4oIKTMt-5e9W7YShHaBjIKxTuhHKQ/viewform)!
 
 # Past Events
 
