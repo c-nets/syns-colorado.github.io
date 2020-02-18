@@ -8,10 +8,11 @@ A local chapter of the Society of Young Network Scientists (SYNS). The goal of t
 
 # Upcoming Events
 
-- 2020/02/12 - the second meetup of the SYNS-Colorado Chapter will be at [the Rayback Collective](https://therayback.com/) from 4:30PM to 6PM. RSVP [here](https://docs.google.com/forms/d/e/1FAIpQLSeIG45K_mFJ5agmJDqxD4oIKTMt-5e9W7YShHaBjIKxTuhHKQ/viewform)!
+- Stay tuned!
 
 # Past Events
 
+- 2020/02/12 - the second meetup of the SYNS-Colorado Chapter
 - 2019/10/17 - the first meetup of the SYNS-Colorado Chapter
 
 # Organizers
@@ -21,7 +22,7 @@ A local chapter of the Society of Young Network Scientists (SYNS). The goal of t
   - [website](https://allisonmorgan.github.io/) / [email](mailto:allison.morgan@colorado.edu) / [github](http://github.com/allisonmorgan)
 - K. Hunter Wapman
   - 3rd year PhD studying computational social science with [Dan Larremore](http://larremorelab.github.io) @ University of Colorado, Boulder
-  - [website](https://hneutr.github.io/) / [email](mailto:hunter.wapman@gmail.com) / [github](http://github.com/hneutr)
+  - [website](https://hneutr.github.io/) / [email](mailto:hunter.wapman@colorado.edu) / [github](http://github.com/hneutr)
 - Tzu-Chi Yen
   - 2rd year PhD studying networks and topology with [Dan Larremore](http://larremorelab.github.io) and [Joshua Grochow](https://www.cs.colorado.edu/~jgrochow/) @ University of Colorado, Boulder
   - [website](https://junipertcy.info/) / [email](mailto:tzuchi.yen@colorado.edu) / [github](http://github.com/junipertcy)
